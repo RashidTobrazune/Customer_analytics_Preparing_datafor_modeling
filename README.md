@@ -4,7 +4,8 @@
 ![pexels-rdne-4921150](https://github.com/RashidTobrazune/Customer_analytics_Preparing_datafor_modeling/assets/150378293/04671bfb-1fc6-4881-92db-aa7babf4feb6)
 
 # Customer_analytics_Preparing_datafor_modeling
-# Data job simulation
+Datacamp Project
+
 A common problem when creating models to generate business value from data is that the datasets can be so large that it can take days for the model to generate predictions. Ensuring that your dataset is stored as efficiently as possible is crucial for allowing these models to run on a more reasonable timescale without having to reduce the size of the dataset.
 
 I was hired by a major online data science training provider called Training Data Ltd. to clean up one of their largest customer datasets. This dataset will eventually be used to predict whether their students are looking for a new job or not, information that they will then use to direct them to prospective recruiters.
